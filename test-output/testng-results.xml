@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Execute test case checkAdminFeatures]]>
+    </line>
+    <line>
+      <![CDATA[Checking if driver session is closed!!]]>
+    </line>
+    <line>
+      <![CDATA[Driver session is closed..]]>
+    </line>
+    <line>
+      <![CDATA[Initializing driver !!]]>
+    </line>
+    <line>
+      <![CDATA[Setting capabilities for DesktOP Chrome Browser....]]>
+    </line>
+    <line>
+      <![CDATA[Initializing chrome driver on Windows]]>
+    </line>
+    <line>
+      <![CDATA[Chrome driver initialized on local device !!]]>
+    </line>
+    <line>
+      <![CDATA[Launching uRL: https://viciecm.com/InternalUse/Admin/UserManagement.aspx]]>
+    </line>
+    <line>
+      <![CDATA[Verifying Page title: Login]]>
+    </line>
+    <line>
+      <![CDATA[Actual: Login]]>
+    </line>
+    <line>
+      <![CDATA[Page Title verified | ]]>
+    </line>
+    <line>
+      <![CDATA[Click : By.id: txtUserName]]>
+    </line>
+    <line>
+      <![CDATA[Typing value : rohit]]>
+    </line>
+    <line>
+      <![CDATA[Cleaning textbox value]]>
+    </line>
+    <line>
+      <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+    </line>
+    <line>
+      <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+    </line>
+    <line>
+      <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+    </line>
+    <line>
+      <![CDATA[value in input box: rohit]]>
+    </line>
+    <line>
+      <![CDATA[Typing value : rohitp]]>
+    </line>
+    <line>
+      <![CDATA[Cleaning textbox value]]>
+    </line>
+    <line>
+      <![CDATA[Wait for element to be present in DOM : By.id: txtPassword]]>
+    </line>
+    <line>
+      <![CDATA[Click : By.id: btnLogin]]>
+    </line>
+    <line>
+      <![CDATA[waitForElementToBeVisible: By.xpath: //a[@id='MnAdmin']]]>
+    </line>
+    <line>
+      <![CDATA[Wait for element to be present in DOM : By.xpath: //a[@id='MnAdmin']]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess....]]>
+    </line>
+    <line>
+      <![CDATA[In After Method..]]>
+    </line>
+    <line>
+      <![CDATA[TestCaseId/TestRunId is either missing or null. Hence not updating status on TestRail]]>
+    </line>
+    <line>
+      <![CDATA[Terminating Driver Session... ]]>
+    </line>
+    <line>
+      <![CDATA[Execute test case loginTest_normaluser]]>
+    </line>
+    <line>
+      <![CDATA[Checking if driver session is closed!!]]>
+    </line>
+    <line>
+      <![CDATA[Driver session is closed..]]>
+    </line>
+    <line>
+      <![CDATA[Initializing driver !!]]>
+    </line>
+    <line>
+      <![CDATA[Setting capabilities for DesktOP Chrome Browser....]]>
+    </line>
+    <line>
+      <![CDATA[Initializing chrome driver on Windows]]>
+    </line>
+    <line>
+      <![CDATA[Chrome driver initialized on local device !!]]>
+    </line>
+    <line>
+      <![CDATA[Launching uRL: https://viciecm.com/InternalUse/Admin/UserManagement.aspx]]>
+    </line>
+    <line>
+      <![CDATA[Verifying Page title: Login]]>
+    </line>
+    <line>
+      <![CDATA[Actual: Login]]>
+    </line>
+    <line>
+      <![CDATA[Page Title verified | ]]>
+    </line>
+    <line>
+      <![CDATA[Click : By.id: txtUserName]]>
+    </line>
+    <line>
+      <![CDATA[Typing value : rohitnormal]]>
+    </line>
+    <line>
+      <![CDATA[Cleaning textbox value]]>
+    </line>
+    <line>
+      <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+    </line>
+    <line>
+      <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+    </line>
+    <line>
+      <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+    </line>
+    <line>
+      <![CDATA[value in input box: rohitnormal]]>
+    </line>
+    <line>
+      <![CDATA[Typing value : rohitn]]>
+    </line>
+    <line>
+      <![CDATA[Cleaning textbox value]]>
+    </line>
+    <line>
+      <![CDATA[Wait for element to be present in DOM : By.id: txtPassword]]>
+    </line>
+    <line>
+      <![CDATA[Click : By.id: btnLogin]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess....]]>
+    </line>
+    <line>
+      <![CDATA[In After Method..]]>
+    </line>
+    <line>
+      <![CDATA[TestCaseId/TestRunId is either missing or null. Hence not updating status on TestRail]]>
+    </line>
+    <line>
+      <![CDATA[Terminating Driver Session... ]]>
+    </line>
+    <line>
+      <![CDATA[Execute test case viciLoginTest_adminuser]]>
+    </line>
+    <line>
+      <![CDATA[Checking if driver session is closed!!]]>
+    </line>
+    <line>
+      <![CDATA[Driver session is closed..]]>
+    </line>
+    <line>
+      <![CDATA[Initializing driver !!]]>
+    </line>
+    <line>
+      <![CDATA[Setting capabilities for DesktOP Chrome Browser....]]>
+    </line>
+    <line>
+      <![CDATA[Initializing chrome driver on Windows]]>
+    </line>
+    <line>
+      <![CDATA[Chrome driver initialized on local device !!]]>
+    </line>
+    <line>
+      <![CDATA[Launching uRL: https://viciecm.com/InternalUse/Admin/UserManagement.aspx]]>
+    </line>
+    <line>
+      <![CDATA[Verifying Page title: Login]]>
+    </line>
+    <line>
+      <![CDATA[Actual: Login]]>
+    </line>
+    <line>
+      <![CDATA[Page Title verified | ]]>
+    </line>
+    <line>
+      <![CDATA[Click : By.id: txtUserName]]>
+    </line>
+    <line>
+      <![CDATA[Typing value : rohit]]>
+    </line>
+    <line>
+      <![CDATA[Cleaning textbox value]]>
+    </line>
+    <line>
+      <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+    </line>
+    <line>
+      <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+    </line>
+    <line>
+      <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+    </line>
+    <line>
+      <![CDATA[value in input box: rohit]]>
+    </line>
+    <line>
+      <![CDATA[Typing value : rohitp]]>
+    </line>
+    <line>
+      <![CDATA[Cleaning textbox value]]>
+    </line>
+    <line>
+      <![CDATA[Wait for element to be present in DOM : By.id: txtPassword]]>
+    </line>
+    <line>
+      <![CDATA[Click : By.id: btnLogin]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess....]]>
+    </line>
+    <line>
+      <![CDATA[In After Method..]]>
+    </line>
+    <line>
+      <![CDATA[TestCaseId/TestRunId is either missing or null. Hence not updating status on TestRail]]>
+    </line>
+    <line>
+      <![CDATA[Terminating Driver Session... ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-11-17T13:28:26 IST" name="Vici Login Test" finished-at="2023-11-17T13:29:35 IST" duration-ms="69765">
+    <groups>
+    </groups>
+    <test started-at="2023-11-17T13:28:26 IST" name="Vici Login Test" finished-at="2023-11-17T13:29:35 IST" duration-ms="69765">
+      <class name="com.viciemctests.BasicViciTests">
+        <test-method is-config="true" signature="beforeTestMethod(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:28:26 IST" name="beforeTestMethod" finished-at="2023-11-17T13:28:26 IST" duration-ms="31" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method is-config="true" signature="initialSetUp()[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:28:26 IST" name="initialSetUp" finished-at="2023-11-17T13:28:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method,org.testng.ITestContext)[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:28:26 IST" name="beforeMethod" finished-at="2023-11-17T13:28:43 IST" duration-ms="16927" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value is-null="true"/>
+            </param>
+            <param index="6">
+              <value is-null="true"/>
+            </param>
+            <param index="7">
+              <value is-null="true"/>
+            </param>
+            <param index="8">
+              <value is-null="true"/>
+            </param>
+            <param index="9">
+              <value is-null="true"/>
+            </param>
+            <param index="10">
+              <value is-null="true"/>
+            </param>
+            <param index="11">
+              <value is-null="true"/>
+            </param>
+            <param index="12">
+              <value is-null="true"/>
+            </param>
+            <param index="13">
+              <value is-null="true"/>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[public void com.viciemctests.BasicViciTests.checkAdminFeatures() throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[org.testng.TestRunner@3a0b6a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Execute test case checkAdminFeatures]]>
+            </line>
+            <line>
+              <![CDATA[Checking if driver session is closed!!]]>
+            </line>
+            <line>
+              <![CDATA[Driver session is closed..]]>
+            </line>
+            <line>
+              <![CDATA[Initializing driver !!]]>
+            </line>
+            <line>
+              <![CDATA[Setting capabilities for DesktOP Chrome Browser....]]>
+            </line>
+            <line>
+              <![CDATA[Initializing chrome driver on Windows]]>
+            </line>
+            <line>
+              <![CDATA[Chrome driver initialized on local device !!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="launchUrl()[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:28:43 IST" name="launchUrl" finished-at="2023-11-17T13:28:46 IST" duration-ms="3717" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching uRL: https://viciecm.com/InternalUse/Admin/UserManagement.aspx]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method signature="checkAdminFeatures()[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:28:46 IST" name="checkAdminFeatures" finished-at="2023-11-17T13:28:56 IST" duration-ms="9430" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Verifying Page title: Login]]>
+            </line>
+            <line>
+              <![CDATA[Actual: Login]]>
+            </line>
+            <line>
+              <![CDATA[Page Title verified | ]]>
+            </line>
+            <line>
+              <![CDATA[Click : By.id: txtUserName]]>
+            </line>
+            <line>
+              <![CDATA[Typing value : rohit]]>
+            </line>
+            <line>
+              <![CDATA[Cleaning textbox value]]>
+            </line>
+            <line>
+              <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+            </line>
+            <line>
+              <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+            </line>
+            <line>
+              <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+            </line>
+            <line>
+              <![CDATA[value in input box: rohit]]>
+            </line>
+            <line>
+              <![CDATA[Typing value : rohitp]]>
+            </line>
+            <line>
+              <![CDATA[Cleaning textbox value]]>
+            </line>
+            <line>
+              <![CDATA[Wait for element to be present in DOM : By.id: txtPassword]]>
+            </line>
+            <line>
+              <![CDATA[Click : By.id: btnLogin]]>
+            </line>
+            <line>
+              <![CDATA[waitForElementToBeVisible: By.xpath: //a[@id='MnAdmin']]]>
+            </line>
+            <line>
+              <![CDATA[Wait for element to be present in DOM : By.xpath: //a[@id='MnAdmin']]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkAdminFeatures -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:28:56 IST" name="afterMethod" finished-at="2023-11-17T13:28:57 IST" duration-ms="1172" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkAdminFeatures status=SUCCESS method=BasicViciTests.checkAdminFeatures()[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62] output=Verifying Page title: Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[In After Method..]]>
+            </line>
+            <line>
+              <![CDATA[TestCaseId/TestRunId is either missing or null. Hence not updating status on TestRail]]>
+            </line>
+            <line>
+              <![CDATA[Terminating Driver Session... ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method,org.testng.ITestContext)[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:28:57 IST" name="beforeMethod" finished-at="2023-11-17T13:28:59 IST" duration-ms="1760" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value is-null="true"/>
+            </param>
+            <param index="6">
+              <value is-null="true"/>
+            </param>
+            <param index="7">
+              <value is-null="true"/>
+            </param>
+            <param index="8">
+              <value is-null="true"/>
+            </param>
+            <param index="9">
+              <value is-null="true"/>
+            </param>
+            <param index="10">
+              <value is-null="true"/>
+            </param>
+            <param index="11">
+              <value is-null="true"/>
+            </param>
+            <param index="12">
+              <value is-null="true"/>
+            </param>
+            <param index="13">
+              <value is-null="true"/>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[public void com.viciemctests.BasicViciTests.loginTest_normaluser() throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[org.testng.TestRunner@3a0b6a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Execute test case loginTest_normaluser]]>
+            </line>
+            <line>
+              <![CDATA[Checking if driver session is closed!!]]>
+            </line>
+            <line>
+              <![CDATA[Driver session is closed..]]>
+            </line>
+            <line>
+              <![CDATA[Initializing driver !!]]>
+            </line>
+            <line>
+              <![CDATA[Setting capabilities for DesktOP Chrome Browser....]]>
+            </line>
+            <line>
+              <![CDATA[Initializing chrome driver on Windows]]>
+            </line>
+            <line>
+              <![CDATA[Chrome driver initialized on local device !!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="launchUrl()[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:28:59 IST" name="launchUrl" finished-at="2023-11-17T13:29:05 IST" duration-ms="6255" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching uRL: https://viciecm.com/InternalUse/Admin/UserManagement.aspx]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method signature="loginTest_normaluser()[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:29:05 IST" name="loginTest_normaluser" finished-at="2023-11-17T13:29:15 IST" duration-ms="10221" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Verifying Page title: Login]]>
+            </line>
+            <line>
+              <![CDATA[Actual: Login]]>
+            </line>
+            <line>
+              <![CDATA[Page Title verified | ]]>
+            </line>
+            <line>
+              <![CDATA[Click : By.id: txtUserName]]>
+            </line>
+            <line>
+              <![CDATA[Typing value : rohitnormal]]>
+            </line>
+            <line>
+              <![CDATA[Cleaning textbox value]]>
+            </line>
+            <line>
+              <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+            </line>
+            <line>
+              <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+            </line>
+            <line>
+              <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+            </line>
+            <line>
+              <![CDATA[value in input box: rohitnormal]]>
+            </line>
+            <line>
+              <![CDATA[Typing value : rohitn]]>
+            </line>
+            <line>
+              <![CDATA[Cleaning textbox value]]>
+            </line>
+            <line>
+              <![CDATA[Wait for element to be present in DOM : By.id: txtPassword]]>
+            </line>
+            <line>
+              <![CDATA[Click : By.id: btnLogin]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest_normaluser -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:29:15 IST" name="afterMethod" finished-at="2023-11-17T13:29:16 IST" duration-ms="807" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest_normaluser status=SUCCESS method=BasicViciTests.loginTest_normaluser()[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62] output=Verifying Page title: Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[In After Method..]]>
+            </line>
+            <line>
+              <![CDATA[TestCaseId/TestRunId is either missing or null. Hence not updating status on TestRail]]>
+            </line>
+            <line>
+              <![CDATA[Terminating Driver Session... ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method,org.testng.ITestContext)[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:29:16 IST" name="beforeMethod" finished-at="2023-11-17T13:29:17 IST" duration-ms="1426" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value is-null="true"/>
+            </param>
+            <param index="6">
+              <value is-null="true"/>
+            </param>
+            <param index="7">
+              <value is-null="true"/>
+            </param>
+            <param index="8">
+              <value is-null="true"/>
+            </param>
+            <param index="9">
+              <value is-null="true"/>
+            </param>
+            <param index="10">
+              <value is-null="true"/>
+            </param>
+            <param index="11">
+              <value is-null="true"/>
+            </param>
+            <param index="12">
+              <value is-null="true"/>
+            </param>
+            <param index="13">
+              <value is-null="true"/>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[public void com.viciemctests.BasicViciTests.viciLoginTest_adminuser() throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[org.testng.TestRunner@3a0b6a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Execute test case viciLoginTest_adminuser]]>
+            </line>
+            <line>
+              <![CDATA[Checking if driver session is closed!!]]>
+            </line>
+            <line>
+              <![CDATA[Driver session is closed..]]>
+            </line>
+            <line>
+              <![CDATA[Initializing driver !!]]>
+            </line>
+            <line>
+              <![CDATA[Setting capabilities for DesktOP Chrome Browser....]]>
+            </line>
+            <line>
+              <![CDATA[Initializing chrome driver on Windows]]>
+            </line>
+            <line>
+              <![CDATA[Chrome driver initialized on local device !!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="launchUrl()[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:29:17 IST" name="launchUrl" finished-at="2023-11-17T13:29:23 IST" duration-ms="5700" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching uRL: https://viciecm.com/InternalUse/Admin/UserManagement.aspx]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method signature="viciLoginTest_adminuser()[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:29:23 IST" name="viciLoginTest_adminuser" finished-at="2023-11-17T13:29:35 IST" duration-ms="11419" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Verifying Page title: Login]]>
+            </line>
+            <line>
+              <![CDATA[Actual: Login]]>
+            </line>
+            <line>
+              <![CDATA[Page Title verified | ]]>
+            </line>
+            <line>
+              <![CDATA[Click : By.id: txtUserName]]>
+            </line>
+            <line>
+              <![CDATA[Typing value : rohit]]>
+            </line>
+            <line>
+              <![CDATA[Cleaning textbox value]]>
+            </line>
+            <line>
+              <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+            </line>
+            <line>
+              <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+            </line>
+            <line>
+              <![CDATA[Wait for element to be present in DOM : By.id: txtUserName]]>
+            </line>
+            <line>
+              <![CDATA[value in input box: rohit]]>
+            </line>
+            <line>
+              <![CDATA[Typing value : rohitp]]>
+            </line>
+            <line>
+              <![CDATA[Cleaning textbox value]]>
+            </line>
+            <line>
+              <![CDATA[Wait for element to be present in DOM : By.id: txtPassword]]>
+            </line>
+            <line>
+              <![CDATA[Click : By.id: btnLogin]]>
+            </line>
+            <line>
+              <![CDATA[onTestSuccess....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- viciLoginTest_adminuser -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:29:35 IST" name="afterMethod" finished-at="2023-11-17T13:29:35 IST" duration-ms="828" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=viciLoginTest_adminuser status=SUCCESS method=BasicViciTests.viciLoginTest_adminuser()[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62] output=Verifying Page title: Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[In After Method..]]>
+            </line>
+            <line>
+              <![CDATA[TestCaseId/TestRunId is either missing or null. Hence not updating status on TestRail]]>
+            </line>
+            <line>
+              <![CDATA[Terminating Driver Session... ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="postScriptsCleaning()[pri:0, instance:com.viciemctests.BasicViciTests@7817fd62]" started-at="2023-11-17T13:29:36 IST" name="postScriptsCleaning" finished-at="2023-11-17T13:29:36 IST" duration-ms="422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postScriptsCleaning -->
+      </class> <!-- com.viciemctests.BasicViciTests -->
+    </test> <!-- Vici Login Test -->
+  </suite> <!-- Vici Login Test -->
+</testng-results>
